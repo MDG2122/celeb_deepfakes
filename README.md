@@ -4,6 +4,10 @@ Accuracy Achieved: 97% for the first dataset, 66% for the second dataset.
 
 Link to guide for the Face Extraction using MTCNN: https://github.com/ipazc/mtcnn
 
+Project made by:
+
+-Massimo Di Gennaro
+
 Images from the First Dataset:
 
 Real Image:
@@ -24,6 +28,3 @@ Fake Image:
 
 ![](img/fake_2.jpg)
 
-Project made by:
-
--Massimo Di Gennaro
