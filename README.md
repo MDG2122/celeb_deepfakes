@@ -30,7 +30,7 @@ Fake Image:
 
 ![](img/fake_2.jpg)
 
-**Proposed Architecture**
+**Proposed Architecture:**
 
 ![](img/cnn.jpg)
 
