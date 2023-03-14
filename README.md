@@ -8,21 +8,21 @@ Images from the First Dataset:
 
 Real Image:
 
-![](img/real_1)
+![](img/real_1.jpg)
 
 Fake Image:
 
-![](img/fake_1)
+![](img/fake_1.jpg)
 
 Images from the Second Dataset:
 
 Real Image:
 
-![](img/real_2)
+![](img/real_2.jpg)
 
 Fake Image:
 
-![](img/fake_2)
+![](img/fake_2.jpg)
 
 Project made by:
 
